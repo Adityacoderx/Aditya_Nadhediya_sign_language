@@ -7,7 +7,11 @@
 <p align="center">
   <b>Text Mode & Voice Output using CNN-based Hand Gesture Recognition</b>
 </p>
-A very simple CNN project.
+A real-time American Sign Language recognition system 
+that detects hand gestures via webcam and converts them 
+into readable text and speech output. Built using CNN 
+with TensorFlow, Keras and OpenCV. Includes a 
+gesture-based calculator
 
 ## Note
 Simple-OpenCV-Calculator and this project are merged to one. Simple-OpenCV-Calculator will no longer be maintained.
@@ -30,7 +34,8 @@ There are a lot of details that I left. But these are the basic and main steps.
 3. OpenCV 3.4
 4. h5py
 5. pyttsx3
-6. A good grasp over the above 5 topics along with neural networks. Refer to the internet if you have problems with those. I myself am just a begineer in those.
+6. A good grasp over the above 5 topics along with neural networks. Refer to the internet if you have problems with those. Basic understanding of neural networks 
+and computer vision is recommended.
 7. A good CPU (preferably with a GPU).
 8. Patience.... A lot of it.
 
@@ -150,5 +155,3 @@ Here is where you will have all the fun.
 # Got a question?
 If you have any questions that are bothering you please contact me on my. Just do not ask me questions like where do I live, who do I work for etc. Also no questions like what does this line do. If you think a line is redundant or can be removed to make the program better then you can obviously ask me or make a pull request.
 
-# How to cite 
-Aditya Nadhediya (2025, May 9). Sign-Language (Version 1). figshare.  very simple CNN project.
